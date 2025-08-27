@@ -1,3 +1,6 @@
+## Figma  Prototype : https://www.figma.com/proto/RdChBaTevbGX3SnlE7XK3F/VL-Employee-Details?node-id=1-3&t=bUlWml2GGpLXehmJ-1
+**Note: The design has been created using the dimensions of the iPhone 14. Measurements may vary when viewed on other devices or screen sizes.**
+
 ## **Project Background**
 
 At Visionlogix, we have developed an **AI model for Human Tracking and Detection**, trained using CCTV footage from our office environment. The system automatically detects individuals and classifies them as either **staff** or **non-staff visitors**.
